@@ -1,9 +1,8 @@
 <h1 align="center">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<h2 align="center">sou um estudante apaixonado por desenvolvimento e hacking></h2>
+<h2 align="center">sou um estudante apaixonado por desenvolvimento e hacking</h2>
 <p align="center">
      <img align="center" alt="GIF" src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/code.gif" width="300" height="220" />
 </p>
-
 <p align="center">
      
  - 💻 Estudante de ciência da computação
@@ -13,7 +12,6 @@
  - 💬 Apaixonado por MMORPG
      
  </p>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/rhuan-gonzaga-0127381a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href = "mailto: rhuangonzaga22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
@@ -26,6 +24,5 @@
   <img src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/css3-plain-wordmark.svg" alt="web" height="40" width="50"/>&nbsp;
   <img src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/javascript-original.svg" alt="web" height="40" width="50"/>&nbsp;
   <img src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/python-logo-generic.svg" alt="web" height="40" width="60"/>&nbsp;
-     
-</p> 
+ </p> 
  
