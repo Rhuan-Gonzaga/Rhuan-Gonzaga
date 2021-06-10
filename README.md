@@ -26,7 +26,7 @@
   <img src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/html5-original-wordmark.svg" alt="web" height="40" width="50"/>&nbsp;
   <img src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/css3-plain-wordmark.svg" alt="web" height="40" width="50"/>&nbsp;
   <img src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/javascript-original.svg" alt="web" height="40" width="50"/>&nbsp;
-  <img src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/python-logo-generic.svg" alt="web" height="40" width="55"/>&nbsp;
+  <img src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/python-logo-generic.svg" alt="web" height="40" width="60"/>&nbsp;
      
 </p> 
  
