@@ -1,5 +1,5 @@
 <h1 align="center">Olá<img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<h2 align="center">sou um estudante apaixonado por desenvolvimento e hacking</h2>
+<h2 align="center">Sou um estudante apaixonado por desenvolvimento e hacking</h2>
 <p align="center">
      <img align="center" alt="GIF" src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/code.gif" width="300" height="220" />
 </p>
