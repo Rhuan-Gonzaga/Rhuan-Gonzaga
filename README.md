@@ -1,6 +1,4 @@
-<h1 align="center">Olá, eu sou o Rhuan <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<h3 align="center">Apaixonado por desenvolvimento e hacking</h3>
-
+<h1 align="center">Olá, sou um estudando apaixonaod por desenvolvimento e hacking <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 <p align="center">
      <img align="center" alt="GIF" src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/code.gif" width="300" height="220" />
 </p>
