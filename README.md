@@ -9,7 +9,7 @@
      
  - 👨🏾‍💻 Focado no desenvolvimento WEB
      
- - <3 MMORPG
+ - ❤ MMORPG
      
  </p>
 <p align="center">
