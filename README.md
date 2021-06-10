@@ -2,7 +2,7 @@
 <h3 align="center">Apaixonado por desenvolvimento e hacking</h3>
 
 <p align="center">
-     <img align="center" alt="GIF" src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/code.gif" width="500" height="320" />
+     <img align="center" alt="GIF" src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/code.gif" width="300" height="220" />
 </p>
 
 <p align="center">
