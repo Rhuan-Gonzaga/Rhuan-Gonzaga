@@ -1,16 +1,30 @@
-### Hi there 👋
+<h1 align="center">Olá, eu sou o Rhuan <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h3 align="center">Apaixonado por desenvolvimento e hacking</h3>
 
-<!--
-**Rhuan-Gonzaga/Rhuan-Gonzaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+     <img align="center" alt="GIF" src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/code.gif" width="500" height="320" />
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+     
+ - 💻 Estudante de ciência da computação
+     
+ - 👨🏾‍💻 Focado no desenvolvimento WEB
+     
+ - 💬 Apaixonado por MMORPG
+     
+ </p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://www.linkedin.com/in/rhuan-gonzaga-0127381a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href = "mailto: rhuangonzaga22@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.instagram.com/rhuann22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
+</p>
+
+<h2>Ferramentas e tecnologias</h2>
+<p align="left"> 
+  <img src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/html5-original-wordmark.svg" alt="web" height="40" width="50"/>&nbsp;
+  <img src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/css3-plain-wordmark.svg" alt="web" height="40" width="50"/>&nbsp;
+  <img src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/javascript-original.svg" alt="web" height="40" width="50"/>&nbsp;
+</p> 
+ 
