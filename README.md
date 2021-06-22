@@ -15,11 +15,4 @@
   <a href="https://www.instagram.com/rhuann22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </p>
 
-<h2>Ferramentas e tecnologias</h2>
-<p align="left"> 
-  <img src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/html5-original-wordmark.svg" alt="web" height="40" width="50"/>&nbsp;
-  <img src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/css3-plain-wordmark.svg" alt="web" height="40" width="50"/>&nbsp;
-  <img src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/javascript-original.svg" alt="web" height="40" width="50"/>&nbsp;
-  <img src="https://github.com/Rhuan-Gonzaga/Iam/blob/main/python-logo-generic.svg" alt="web" height="40" width="60"/>&nbsp;
- </p> 
  
