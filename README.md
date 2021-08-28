@@ -1,10 +1,9 @@
 <h1 align="center">Tudo tranquilo? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
-<p align="center">
- 
- <div>
-  <a href="https://github.com/Rhuan-Gonzaga">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rhuan-Gonzaga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhuan-Gonzaga&layout=compact&langs_count=7&theme=dark"/>
+
+<div>
+   <a href="https://github.com/Rhuan-Gonzaga">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rhuan-Gonzaga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhuan-Gonzaga&layout=compact&langs_count=7&theme=dark"/>
 </div>
   
  - 💻 Estudante de Ciência da Computação na Unicarioca
