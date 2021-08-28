@@ -2,8 +2,9 @@
 
 <div>
    <a href="https://github.com/Rhuan-Gonzaga">
-   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rhuan-Gonzaga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhuan-Gonzaga&layout=compact&langs_count=7&theme=dark"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api?username=Rhuan-Gonzaga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+      <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhuan-Gonzaga&layout=compact&langs_count=7&theme=dark"/>
+   </a>
 </div>
   
  - 💻 Estudante de Ciência da Computação na Unicarioca
