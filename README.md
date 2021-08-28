@@ -7,9 +7,9 @@
    </a>
 </div>
   
- - 💻 Estudante de Ciência da Computação na <strong>Unicarioca</strong>
+ - 💻<strong>Estudante de Ciência da Computação na Unicarioca.</strong>
      
- - 👨🏾‍💻 Trilhando o meu caminho para se tornar um Desenvolvedor Full Stack.
+ - 👨🏾‍💻 <strong>Trilhando o meu caminho para se tornar um Desenvolvedor Full Stack.</strong>
          
  
 <p align="center">
