@@ -1,6 +1,6 @@
 ## Tudo tranquilo? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
 
-<div >
+<div>
    <a href="https://github.com/Rhuan-Gonzaga">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Rhuan-Gonzaga&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhuan-Gonzaga&layout=compact&langs_count=7&theme=dark"/>
@@ -17,7 +17,7 @@
   <a href="https://www.instagram.com/rhuann22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </p>
 
-<div>
+<div style="display: inline_block">
      <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/html.png" height="45px"  width="45px">
      <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/css.png" height="45px" width="45px"> 
      <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/javascript.png" height="45px"  width="45px">
