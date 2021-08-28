@@ -17,10 +17,10 @@
   <a href="https://www.instagram.com/rhuann22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </p>
 
-<div style="display: inline_block">
-     <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/html.png" height="45px"  width="45px">
-     <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/css.png" height="45px" width="45px"> 
-     <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/javascript.png" height="45px"  width="45px">
-     <img height="45px" width="45px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
+<div>
+     <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/html.png" height="50px"  width="50px">
+     <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/css.png" height="50px" width="50px"> 
+     <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/javascript.png" height="50px"  width="50px">
+     <img height="50px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">
 </div>
  
