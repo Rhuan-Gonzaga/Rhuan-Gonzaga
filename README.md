@@ -8,8 +8,10 @@
 </div>
   
  - 💻<strong>Estudante de Ciência da Computação na Unicarioca.</strong>
-     
+ 
  - 👨🏾‍💻 <strong>Trilhando o meu caminho para se tornar um Desenvolvedor Web.</strong>
+
+ - 📖 <strong>Atualmente estudando o desenvolvimento no front-end com React e back-end com NodeJS.</strong>
          
  
 <p align="center">
