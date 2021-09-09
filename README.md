@@ -11,7 +11,7 @@
  
  - 👨🏾‍💻 <strong>Trilhando o meu caminho para se tornar um Desenvolvedor full stack.</strong>
 
- - 📖 <strong>Atualmente estudando o desenvolvimento no front-end com React.</strong>
+ - 📖 <strong>Atualmente estudando o desenvolvimento no front-end com ReactJS.</strong>
          
  
 <p align="center">
