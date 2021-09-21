@@ -20,7 +20,7 @@
   <a href="https://www.instagram.com/rhuann22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </p>
 
-<div>
+<div  align="center">
      <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/html.png" height="50px"  width="50px">
      <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/css.png" height="50px" width="50px"> 
      <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/javascript.png" height="50px"  width="50px">
