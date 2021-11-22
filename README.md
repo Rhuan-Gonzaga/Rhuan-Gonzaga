@@ -9,7 +9,7 @@
   
  - 💻<strong>Estudante de Ciência da Computação na Unicarioca.</strong>
  
- - 👨🏾‍💻 <strong>Trilhando o meu caminho para se tornar um Desenvolvedor full stack.</strong>
+ - 👨🏾‍💻 <strong>Trilhando o meu caminho para se tornar um Desenvolvedor Web.</strong>
 
  - 📖 <strong>Atualmente estudando o desenvolvimento no front-end com ReactJS.</strong>
          
