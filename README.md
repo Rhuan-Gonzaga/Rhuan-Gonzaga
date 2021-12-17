@@ -24,5 +24,6 @@
      <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/html.png" height="50px"  width="50px">
      <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/css.png" height="50px" width="50px"> 
      <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/javascript.png" height="50px"  width="50px">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px"  width="50px" />
 </div>
  
