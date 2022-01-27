@@ -9,9 +9,9 @@
   
  - 💻<strong>Estudante de Ciência da Computação na Unicarioca.</strong>
  
- - 👨🏾‍💻 <strong>Trilhando o meu caminho para se tornar um Desenvolvedor Web.</strong>
+ - 👨🏾‍💻 <strong>Trilhando o meu caminho para se tornar um Desenvolvedor Back-end.</strong>
 
- - 📖 <strong>Atualmente estudando o desenvolvimento no Back-End com NodeJS.</strong>
+ - 📖 <strong>Atualmente estudando o desenvolvimento no Back-End com python.</strong>
          
  
 <p align="center">
@@ -26,6 +26,8 @@
      <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/javascript.png" height="50px"  width="50px">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60px"  width="60px" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px"  width="50px" />
+   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"  width="50px" />
+
     
 </div>
  
