@@ -11,7 +11,7 @@
  
  - 👨🏾‍💻 <strong>Trilhando o meu caminho para se tornar um Desenvolvedor Back-end.</strong>
 
- - 📖 <strong>Atualmente estudando o desenvolvimento no Back-End com python.</strong>
+ - 📖 <strong>Atualmente estudando desenvolvimento Back-End com Python.</strong>
          
  
 <p align="center">
