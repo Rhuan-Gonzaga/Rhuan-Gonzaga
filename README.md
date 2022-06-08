@@ -1,4 +1,4 @@
-## Tudo tranquilo? <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px">
+## Tudo tranquilo?
 
 <div>
    <a href="https://github.com/Rhuan-Gonzaga">
@@ -9,7 +9,7 @@
   
  - 💻<strong>Estudante de Ciência da Computação na Unicarioca.</strong>
  
- - 👨🏾‍💻 <strong>Trilhando o meu caminho para se tornar um Desenvolvedor Back-end.</strong>
+ - 👨<strong>Trilhando o meu caminho como Desenvolvedor Back-end.</strong>
 
  - 📖 <strong>Atualmente estudando desenvolvimento Back-End com Python.</strong>
          
@@ -21,12 +21,14 @@
 </p>
 
 <div  align="center">
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"  width="50px" />
+     <img src=https://icongr.am/devicon/django-plain.svg?size=128&color=2c9118 height="50px"  width="50px"/>
      <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/html.png" height="50px"  width="50px">
      <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/css.png" height="50px" width="50px"> 
      <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/javascript.png" height="50px"  width="50px">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60px"  width="60px" />
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px"  width="50px" />
-   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"  width="50px" />
+  
 
     
 </div>
