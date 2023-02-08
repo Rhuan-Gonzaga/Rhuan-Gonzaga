@@ -13,6 +13,23 @@
 
  - 📖 <strong>Atualmente estudando desenvolvimento Back-End com Python.</strong>
          
+  <div>
+  <p align="center">
+   <a href="https://github.com/Rhuan-Gonzaga">
+     <img
+       height="185em"
+       src="https://github-readme-stats.vercel.app/api?username=Rhuan-Gonzaga&show_icons=true&theme=nord&include_all_commits=true&count_private=true"
+     />
+     <img
+       height="185em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhuan-Gonzaga&layout=compact&langs_count=16&theme=nord"
+     />
+   </a>
+ </p>
+    
+</div>       
+         
+         
  
 <p align="center">
   <a href="https://www.linkedin.com/in/rhuan-gonzaga-0127381a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
