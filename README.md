@@ -1,4 +1,4 @@
-## Tudo tranquilo?
+## Tudo tranquilo? 👋
 
 <!--<div>
    <a href="https://github.com/Rhuan-Gonzaga">
@@ -34,10 +34,9 @@
   <a href="https://www.instagram.com/rhuann22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </p>
 
-### Hello there 👋
 
 <!--
-**JLeoBorges/JLeoBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
