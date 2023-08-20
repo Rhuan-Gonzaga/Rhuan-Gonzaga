@@ -11,7 +11,7 @@
  
  - 👨<strong>Trilhando o meu caminho como Desenvolvedor Back-end.</strong>
 
- - 📖 <strong>Atualmente estudando desenvolvimento Back-End com Python.</strong>
+ - 📖 <strong>Atualmente estudando desenvolvimento Back-End Java.</strong>
          
    <!--<p align="center">
   <a href="https://github.com/Rhuan-Gonzaga">
@@ -34,14 +34,49 @@
   <a href="https://www.instagram.com/rhuann22/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
 </p>
 
-<div  align="center">
+### Hello there 👋
+
+<!--
+**JLeoBorges/JLeoBorges** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<div>
+  <p align="center">
+   <a href="https://github.com/Rhuan-Gonzaga">
+     <img
+       height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=Rhuan-Gonzaga&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+     />
+     <img
+       height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rhuan-Gonzaga&layout=compact&langs_count=16&theme=dracula"
+     />
+   </a>
+ </p>
+    
+</div>
+
+
+<!--<div  align="center">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="50px"  width="50px" />
      <img src=https://icongr.am/devicon/django-plain.svg?size=128&color=2c9118 height="50px"  width="50px"/>
      <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/html.png" height="50px"  width="50px">
      <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/css.png" height="50px" width="50px"> 
      <img src="https://github.com/Rhuan-Gonzaga/JogaDaVelha/blob/main/logo/javascript.png" height="50px"  width="50px">
      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" height="60px"  width="60px" />
-     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px"  width="50px" />
+     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="50px"  width="50px" />-->
+
+    
   
 
     
