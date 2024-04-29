@@ -7,12 +7,8 @@
    </a>
 </div>-->
   
- - 💻<strong>Estudante de Ciência da Computação na Unicarioca.</strong>
- 
- - 👨<strong>Trilhando o meu caminho como Desenvolvedor Back-end.</strong>
-
- - 📖 <strong>Atualmente estudando desenvolvimento Back-End Java.</strong>
-         
+ - 💻<strong>Desenvolvedor Back-end.</strong>
+  
    <!--<p align="center">
   <a href="https://github.com/Rhuan-Gonzaga">
     <img
